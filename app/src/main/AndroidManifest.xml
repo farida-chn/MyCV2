@@ -12,9 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyCV2">
         <activity
-            android:name=".MainActivity"
+            android:name="com.filkom.mycv2.MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
+        android:label="@string/app_name"
             android:theme="@style/Theme.MyCV2">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
